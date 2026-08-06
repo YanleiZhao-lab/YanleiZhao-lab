@@ -1,0 +1,19 @@
+name: Update verified achievements
+
+on:
+  schedule:
+    - cron: "43 6 */10 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Update verified achievement badges
+        run: npx --yes update-my-badges@1.0.247 "${{ github.repository_owner }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

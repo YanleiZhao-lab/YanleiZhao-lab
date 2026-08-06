@@ -1,0 +1,38 @@
+name: Generate contribution Breakout
+
+on:
+  schedule:
+    - cron: "6 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate animated Breakout SVGs
+        uses: cyprieng/github-breakout@60c43dca3a1361fbc9fb9bb533b5193296345c4f # v1.2.4
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move generated assets
+        run: |
+          mkdir -p images
+          mv output/light.svg images/breakout-light.svg
+          mv output/dark.svg images/breakout-dark.svg
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/breakout-light.svg images/breakout-dark.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update Breakout contribution graph"
+          git push
