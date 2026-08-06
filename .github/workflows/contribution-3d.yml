@@ -16,23 +16,10 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Generate 3D contribution SVGs
-        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+      - name: Generate 3D contribution and statistics SVGs
+        run: node .github/scripts/generate-profile-visuals.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 1000
-
-      - name: Generate animated summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          AUTO_PUSH: false
-          THEME: transparent
-          ANIMATION: load
-          DURATION: "3"
 
       - name: Commit generated assets
         run: |

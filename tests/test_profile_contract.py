@@ -15,7 +15,12 @@ class ProfileContractTest(unittest.TestCase):
             "README.md",
             "assets/terminal-hero.svg",
             "assets/divider.svg",
+            "profile-summary-card-output/transparent/0-profile-details.svg",
+            "profile-summary-card-output/transparent/1-repos-per-language.svg",
+            "profile-summary-card-output/transparent/3-stats.svg",
+            "profile-3d-contrib/profile-night-rainbow.svg",
             ".github/scripts/update-activity.mjs",
+            ".github/scripts/generate-profile-visuals.mjs",
             ".github/workflows/achievements.yml",
             ".github/workflows/breakout.yml",
             ".github/workflows/contribution-3d.yml",
@@ -65,7 +70,14 @@ class ProfileContractTest(unittest.TestCase):
                 self.assertIn(f"https://github.com/YanleiZhao-lab/{project}", readme)
 
     def test_svg_assets_are_valid_and_accessible(self):
-        for relative_path in ("assets/terminal-hero.svg", "assets/divider.svg"):
+        for relative_path in (
+            "assets/terminal-hero.svg",
+            "assets/divider.svg",
+            "profile-summary-card-output/transparent/0-profile-details.svg",
+            "profile-summary-card-output/transparent/1-repos-per-language.svg",
+            "profile-summary-card-output/transparent/3-stats.svg",
+            "profile-3d-contrib/profile-night-rainbow.svg",
+        ):
             with self.subTest(path=relative_path):
                 root = ET.parse(ROOT / relative_path).getroot()
                 namespace = {"svg": "http://www.w3.org/2000/svg"}
@@ -91,8 +103,7 @@ class ProfileContractTest(unittest.TestCase):
         )
         self.assertNotRegex(workflow_text, r"uses:\s+[^\s]+@(main|master|v\d+)\s*$")
         self.assertIn("cyprieng/github-breakout@60c43dca3a1361fbc9fb9bb533b5193296345c4f", workflow_text)
-        self.assertIn("yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39", workflow_text)
-        self.assertIn("vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549", workflow_text)
+        self.assertIn("node .github/scripts/generate-profile-visuals.mjs", workflow_text)
         self.assertNotIn("PAT", workflow_text)
         self.assertNotIn("PERSONAL_TOKEN", workflow_text)
         self.assertIn("secrets.GITHUB_TOKEN", workflow_text)
