@@ -116,11 +116,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⭐ [YanleiZhao-lab/wechat-codex-autowrite](https://github.com/YanleiZhao-lab/wechat-codex-autowrite): Starred the repository
-- ⬆️ [YanleiZhao-lab/YanleiZhao-lab](https://github.com/YanleiZhao-lab/YanleiZhao-lab): Pushed 0 commits
-- ✨ [YanleiZhao-lab/YanleiZhao-lab](https://github.com/YanleiZhao-lab/YanleiZhao-lab): Created branch `main`
+- ⭐ [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills): Starred the repository
+- ⭐ [kthorn/research-superpower](https://github.com/kthorn/research-superpower): Starred the repository
+- ⭐ [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills): Starred the repository
+- ⭐ [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills): Starred the repository
+- ⭐ [fxbin/TopicEye](https://github.com/fxbin/TopicEye): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
