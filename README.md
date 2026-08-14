@@ -116,11 +116,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
+- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⭐ [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill): Starred the repository
 - ⭐ [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills): Starred the repository
 - ⭐ [kthorn/research-superpower](https://github.com/kthorn/research-superpower): Starred the repository
-- ⭐ [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills): Starred the repository
-- ⭐ [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
