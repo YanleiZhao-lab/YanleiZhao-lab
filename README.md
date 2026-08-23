@@ -116,11 +116,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR): Starred the repository
-- ⭐ [csyqlz/VOZEB-PRO](https://github.com/csyqlz/VOZEB-PRO): Starred the repository
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⭐ [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill): Starred the repository
+- ⭐ [pyvista/pyvista](https://github.com/pyvista/pyvista): Starred the repository
+- ⭐ [yorukot/superfile](https://github.com/yorukot/superfile): Starred the repository
+- ⭐ [sharkdp/bat](https://github.com/sharkdp/bat): Starred the repository
+- ⭐ [sharkdp/fd](https://github.com/sharkdp/fd): Starred the repository
+- ⭐ [rcourtman/Pulse](https://github.com/rcourtman/Pulse): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
