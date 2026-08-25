@@ -116,11 +116,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ [pyvista/pyvista](https://github.com/pyvista/pyvista): Starred the repository
-- ⭐ [yorukot/superfile](https://github.com/yorukot/superfile): Starred the repository
-- ⭐ [sharkdp/bat](https://github.com/sharkdp/bat): Starred the repository
-- ⭐ [sharkdp/fd](https://github.com/sharkdp/fd): Starred the repository
-- ⭐ [rcourtman/Pulse](https://github.com/rcourtman/Pulse): Starred the repository
+- ⭐ [srizzon/git-city](https://github.com/srizzon/git-city): Starred the repository
+- ⭐ [getagentseal/codeburn](https://github.com/getagentseal/codeburn): Starred the repository
+- ⭐ [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue): Starred the repository
+- ⭐ [antvis/Infographic](https://github.com/antvis/Infographic): Starred the repository
+- ⭐ [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
