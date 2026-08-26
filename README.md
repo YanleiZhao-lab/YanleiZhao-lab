@@ -116,11 +116,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ [WUBING2023/PaperSpine](https://github.com/WUBING2023/PaperSpine): Starred the repository
+- ⭐ [aznikline/academic-skills](https://github.com/aznikline/academic-skills): Starred the repository
+- ⭐ [DELONG-L/Academic-Paper-Skills](https://github.com/DELONG-L/Academic-Paper-Skills): Starred the repository
 - ⭐ [srizzon/git-city](https://github.com/srizzon/git-city): Starred the repository
 - ⭐ [getagentseal/codeburn](https://github.com/getagentseal/codeburn): Starred the repository
-- ⭐ [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue): Starred the repository
-- ⭐ [antvis/Infographic](https://github.com/antvis/Infographic): Starred the repository
-- ⭐ [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
