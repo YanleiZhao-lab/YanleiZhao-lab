@@ -116,7 +116,7 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20): Starred the repository
+- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
