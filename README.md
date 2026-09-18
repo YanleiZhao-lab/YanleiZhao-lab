@@ -118,9 +118,9 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 <!--RECENT_ACTIVITY:start-->
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
+- ⬆️ [YanleiZhao-lab/xiaohuajia](https://github.com/YanleiZhao-lab/xiaohuajia): Pushed 0 commits
+- ⬆️ [YanleiZhao-lab/wechat-codex-autowrite](https://github.com/YanleiZhao-lab/wechat-codex-autowrite): Pushed 0 commits
+- ⬆️ [YanleiZhao-lab/NVH_Analysis](https://github.com/YanleiZhao-lab/NVH_Analysis): Pushed 0 commits
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
