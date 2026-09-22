@@ -120,7 +120,7 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
+- ⭐ [erincatto/box3d](https://github.com/erincatto/box3d): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
