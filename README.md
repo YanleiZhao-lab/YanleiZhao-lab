@@ -116,11 +116,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ [alipymanbu/APP](https://github.com/alipymanbu/APP): Starred the repository
 - ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
+- ⭐ [poco-ai/Agentero](https://github.com/poco-ai/Agentero): Starred the repository
 - ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
-- ⭐ [Songwo/zhiyu](https://github.com/Songwo/zhiyu): Starred the repository
-- ⭐ [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model): Starred the repository
+- ⭐ [microsoft/flint-chart](https://github.com/microsoft/flint-chart): Starred the repository
+- ⭐ [espkvm/espkvm](https://github.com/espkvm/espkvm): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
