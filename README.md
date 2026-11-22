@@ -119,7 +119,7 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 - ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
-- ⭐ [poco-ai/Agentero](https://github.com/poco-ai/Agentero): Starred the repository
+- ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
 <!--RECENT_ACTIVITY:end-->
 
