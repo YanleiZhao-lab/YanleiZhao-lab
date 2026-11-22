@@ -1,6 +1,3 @@
-<!-- my-badges start -->
-<a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
-<!-- my-badges end -->
 
 <div align="center">
 
