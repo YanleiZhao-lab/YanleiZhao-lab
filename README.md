@@ -113,11 +113,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
+- 🍴 [Tencent/WeKnora](https://github.com/Tencent/WeKnora): Forked to [YanleiZhao-lab/WeKnora](https://github.com/YanleiZhao-lab/WeKnora)
 - ⭐ [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate): Starred the repository
 - ✨ [YanleiZhao-lab/Agentero](https://github.com/YanleiZhao-lab/Agentero): Created branch `research/stable`
 - ⬆️ [YanleiZhao-lab/Agentero](https://github.com/YanleiZhao-lab/Agentero): Pushed 0 commits
-- ⭐ [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games): Starred the repository
-- ⭐ [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos): Starred the repository
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
