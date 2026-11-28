@@ -113,11 +113,11 @@ I am a hands-on full-stack engineer building practical tools across NVH analysis
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
+- ⬆️ [YanleiZhao-lab/nvh-blog](https://github.com/YanleiZhao-lab/nvh-blog): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/WeKnora](https://github.com/YanleiZhao-lab/WeKnora): Pushed 0 commits
+- ⬆️ [YanleiZhao-lab/ai-new-hub](https://github.com/YanleiZhao-lab/ai-new-hub): Pushed 0 commits
 - ⬆️ [YanleiZhao-lab/WeKnora](https://github.com/YanleiZhao-lab/WeKnora): Pushed 0 commits
-- ⬆️ [YanleiZhao-lab/Agentero](https://github.com/YanleiZhao-lab/Agentero): Pushed 0 commits
-- ⭐ [sun168567/cc-desk-tunnel](https://github.com/sun168567/cc-desk-tunnel): Starred the repository
-- ✨ [YanleiZhao-lab/WeKnora](https://github.com/YanleiZhao-lab/WeKnora): Created branch `personal/victor-wiki`
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
